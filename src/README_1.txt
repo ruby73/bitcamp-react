@@ -49,3 +49,9 @@ ebook 을 샀어요..
 
 js, jsx 
 xls , xlsx 뒤에 붙은 x는 (extends) 확장표시
+
+클릭 -> event
+
+{} javascript Object Notation 자바스크립트 객체 표기법 JSON
+[] arry [{}, {}, ....]
+
